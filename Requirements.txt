@@ -1,0 +1,15 @@
+In order fr this release to work properly you need to have python installed on your machine, then 
+install the following packages:
+1) matplotlib
+2) seaborn
+3) pandas
+4) scikit-learn V0.19.0 or higher
+5) pickle
+
+
+for illustration use the following command:
+
+1) open cmd
+2) make sure you are in the same directoy as the script
+3) type: python Decide.py SVC.pkl yelp.csv bplfw
+4) you should be alerted when the program finishes
